@@ -1,3 +1,17 @@
 void main() {
-  print('Shama');
+  print("welcome");
+
+
+  // data types
+  /*
+  Number
+  String
+  Lists
+  Booleans
+  Map
+  */
+
+
+
+
 }
